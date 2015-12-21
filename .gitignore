@@ -30,3 +30,6 @@
 # folders
 build/
 bin/
+
+# vim
+.swp
